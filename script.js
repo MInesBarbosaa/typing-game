@@ -1,12 +1,22 @@
 const quotes = [
-    'Things are only impossible until they are not',
-    'It is possible to commit no errors and still lose. That is not a weakness. That is life',
-    'There is a way out of every box, a solution to every puzzle; it is just a matter of finding it.',
-    'Without freedom of choice there is no creativity',
-    'Logic is the beginning of wisdom, not the end',
-    'Improve a mechanical device and you may double productivity. But improve yourself, you gain a thousandfold',
-    'Compassion: that is the one thing no machine ever had. Maybe it is the one thing that keeps us ahead of them.',
+    'It does not do to dwell on dreams and forget to live.',
+    'It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.',
+    'If you want to know what a man\'s like, take a good look at how he treats his inferiors, not his equals.',
+    'Differences of habit and language are nothing at all if our aims are identical and our hearts are open',
+    'Of course it is happening inside your head, Harry, but why on earth should that mean it is not real?',
+    'Things we lose have a way of coming back to us in the end, if not always in the way we expect',
+    'It is our choices, Harry, that show what we truly are, far more than our abilities.',
 ];
+
+//const quotes = [
+  //  'Things are only impossible until they are not',
+  //  'It is possible to commit no errors and still lose. That is not a weakness. That is life',
+  //  'There is a way out of every box, a solution to every puzzle; it is just a matter of finding it.',
+  //  'Without freedom of choice there is no creativity',
+  //  'Logic is the beginning of wisdom, not the end',
+  //  'Improve a mechanical device and you may double productivity. But improve yourself, you gain a thousandfold',
+  //  'Compassion: that is the one thing no machine ever had. Maybe it is the one thing that keeps us ahead of them.',
+//];
 
 
 const quote = document.getElementById('quote'); // go to the document and take the element that has the id quote
